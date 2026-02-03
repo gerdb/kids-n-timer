@@ -1,6 +1,6 @@
-# Kid-schn Beeper
+# Kids 'n Timer
 
-## Timer for children's kitchens.
+## A timer for children's kitchens.
 Prevents vegetables from being overcooked.
 <p align="center">
   <img src="kueche1.jpg" alt="kitchen beeper"/>

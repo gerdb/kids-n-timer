@@ -1,10 +1,8 @@
-# pion
-<p align="center">
-  <img src="pion_logo.png?raw=true" alt="pion logo"/>
-</p>
+# Kid-schn Beeper
 
-Raspberry PI pico ionization chamber
+##Timer for children's kitchens.
+Prevents vegetables from being overcooked.
 <p align="center">
-  <img src="photo.jpg?raw=true" alt="Ionization chamber"/>
+  <img src="kueche1.jpg?raw=true" alt="kitchen beeper"/>
 </p>  
 
